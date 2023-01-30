@@ -40,5 +40,11 @@ Write a function that frees a list_t list.
 
 Prototype: void free_list(list_t *head);
 
+5. The Hare and the Tortoise
+6. Real programmers can write assembly code in any language
+#advanced
+Write a 64-bit program in assembly that prints Hello, Holberton, followed by a new line.
 
-
+You are only allowed to use the printf function
+You are not allowed to use interrupts
+Your program will be compiled using nasm and gcc:
