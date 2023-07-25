@@ -1,4 +1,4 @@
 0x00. C - Hello, World
 
-Check and update -  git status(1)
+Check and update -  git status(2)
 
